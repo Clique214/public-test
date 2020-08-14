@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+PRODID:-//Splash Event Planning System
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTAMP:20200331T000521Z
+UID:ba04d721fb53b2fd3aea472d5755bf6fbe9b1155@register.paloal
+ tonetworks.com/onlineChinaTraining
+URL:http://register.paloaltonetworks.com/onlineChinaTraining
+DTSTART:20200401T060000Z
+DTEND:20200401T090000Z
+ORGANIZER;CN="William Guo":mailto:events@emails.paloaltonetw
+ orks.com
+SUMMARY:PA大讲堂
+DESCRIPTION:《PA大讲堂》\n通过Zoom Webinar 方式加�
+ ��会议\n需要您通过 电脑或者 手机加入会议\n�
+ ��户端下载地址   https://meetzoom.net/download\n\nPA�
+ �讲堂 会议号： 169-216-941\n\n如果有问题 请联�
+ �chinachannel@paloaltonetworks.com
+LOCATION:https://paloaltonetworks.zoom.com.cn/webinar/regist
+ er/5415517669608/WN_qraqR948Roi1KEenY3QZ2w
+END:VEVENT
+END:VCALENDAR
+
